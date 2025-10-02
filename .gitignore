@@ -1,0 +1,7 @@
+.env
+.Rhistory
+.ipynb_checkpoints/
+data/
+models/
+*.h5
+*.pt
