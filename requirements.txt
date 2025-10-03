@@ -1,0 +1,41 @@
+# Data Handling
+pandas
+numpy
+pyreadstat         # Para leer archivos .dta (Stata)
+openpyxl           # Para archivos Excel
+pyarrow            # Para archivos Parquet
+
+# Machine Learning & IA
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+torch
+transformers
+
+# NLP
+spacy
+nltk
+sentence-transformers
+
+# Visualización
+matplotlib
+seaborn
+plotly
+
+# Utilidades
+scipy
+tqdm
+joblib
+regex
+
+# Testing y experimentación
+jupyterlab
+notebook
+ipython
+
+# Organización y documentación
+black              # Formateo de código
+isort              # Orden de imports
+pydantic           # Validación de datos
+python-dotenv      # Variables de entorno

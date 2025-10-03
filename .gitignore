@@ -3,5 +3,6 @@
 .ipynb_checkpoints/
 data/
 models/
+bibliography/
 *.h5
 *.pt
