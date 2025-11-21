@@ -30,15 +30,6 @@ Incluye pruebas con diferentes modelos de lenguaje. Cada experimento detalla con
 ### 6. **Evaluación del desempeño**  
 Se emplean métricas adecuadas para comparar modelos y seleccionar la alternativa más sólida.
 
-### 7. **Estructura del repositorio**
-- `data/`: insumos utilizados en cada etapa  
-- `notebooks/`: desarrollo paso a paso  
-- `scripts/`: funciones auxiliares y utilitarios  
-- `results/`: métricas y salidas de los modelos  
-- Documentación técnica complementaria
-
-
-
 ---
 ### **Authors**
 - Efraín Calle Chambe  
@@ -71,12 +62,4 @@ Includes tests with different language models. Each experiment documents configu
 
 ### 6. **Performance evaluation**  
 Uses suitable metrics to compare models and select the strongest option.
-
-### 7. **Repository structure**
-- `data/`: data used throughout the stages  
-- `notebooks/`: step-by-step development  
-- `scripts/`: helper functions and utilities  
-- `results/`: model metrics and outputs  
-- Additional technical documentation
-
 
