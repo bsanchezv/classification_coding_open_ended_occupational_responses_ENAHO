@@ -1,0 +1,16 @@
+.env
+.venv
+.Rhistory
+.ipynb_checkpoints/
+data/backup/
+data/doc/
+data/external/
+data/microdatos/
+data/raw/
+BETITO/
+CLEAN_DATA/
+MODELO NO SUPERVISADO/
+TF-IDF/
+bibliography/
+*.h5
+*.pt"
